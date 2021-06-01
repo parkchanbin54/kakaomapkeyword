@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "170475533433",
+    "project_id": "mope-b2dd1",
+    "storage_bucket": "mope-b2dd1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170475533433:android:1fc3e4699d246a2af5d0a8",
+        "android_client_info": {
+          "package_name": "gachon.mpclass.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170475533433-k02s6e3m4o0hpdhu2g2dsso05rjrm0fk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDygIPSFht2TO_RU49AXm9sA2YThn5O97I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170475533433-k02s6e3m4o0hpdhu2g2dsso05rjrm0fk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
